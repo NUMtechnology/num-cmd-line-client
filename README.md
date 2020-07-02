@@ -1,6 +1,6 @@
 # NUM Command Line Client
 
-Download the `jar` file and run like this:
+Download the latest [jar](https://github.com/NUMtechnology/num-cmd-line-client/releases) file and run like this:
 ```shell script
 > alias num='java -jar num-cmd-line-client.jar'
 
