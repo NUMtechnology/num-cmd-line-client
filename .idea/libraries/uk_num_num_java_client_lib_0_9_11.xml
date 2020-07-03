@@ -1,11 +1,11 @@
 <component name="libraryTable">
-  <library name="uk.num:num-java-client-lib:0.9.10" type="repository">
-    <properties maven-id="uk.num:num-java-client-lib:0.9.10" />
+  <library name="uk.num:num-java-client-lib:0.9.11" type="repository">
+    <properties maven-id="uk.num:num-java-client-lib:0.9.11" />
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/uk/num/num-java-client-lib/0.9.10/num-java-client-lib-0.9.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/uk/num/num-java-client-lib/0.9.11/num-java-client-lib-0.9.11.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.12/commons-codec-1.12.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/uk/modl/java-interpreter/0.1.5/java-interpreter-0.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/uk/modl/java-interpreter/0.1.6/java-interpreter-0.1.6.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/io/vavr/vavr/0.10.2/vavr-0.10.2.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/io/vavr/vavr-match/0.10.2/vavr-match-0.10.2.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4/4.7/antlr4-4.7.jar!/" />
